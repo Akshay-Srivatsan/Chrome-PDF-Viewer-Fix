@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='cnlpoghgnlennjjooalacbjlakmdkaho'>
-    <updatecheck codebase='https://github.com/Akshay-Srivatsan/Chrome-PDF-Viewer-Fix/tree/master/bin/Menlo_School_Haiku_PDF_Viewer.crx' version='0.1' />
+    <updatecheck codebase='https://raw.githubusercontent.com/Akshay-Srivatsan/Chrome-PDF-Viewer-Fix/blob/master/bin/Menlo%20School%20Haiku%20PDF%20Viewer.crx' version='0.1' />
   </app>
 </gupdate>

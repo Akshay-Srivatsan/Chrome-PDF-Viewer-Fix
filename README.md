@@ -7,7 +7,7 @@ Akshay Srivatsan
 
 ## Installation
 * Open [chrome://extensions](chrome://extensions) in Google Chrome.
-* Drag Menlo_School_Haiku_PDF_Viewer.crx (which you can find in the "bin" folder) from Finder/Windows Explorer/GNOME Files to the page.
+* Drag "Menlo School Haiku PDF Viewer.crx" (which you can find in the "bin" folder) from Finder/Windows Explorer/GNOME Files to the page.
 * Click "Add".
 
 ## Modification

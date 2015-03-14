@@ -14,5 +14,5 @@
   "author": "Akshay Srivatsan",
   "description": "Fixes a bug with Haiku Learning and Chrome's PDF Viewer.",
   "homepage_url": "https://github.com/Akshay-Srivatsan/Chrome-PDF-Viewer-Fix",
-  "update_url": "https://github.com/Akshay-Srivatsan/Chrome-PDF-Viewer-Fix/tree/master/bin/update.xml"
+  "update_url": "https://raw.githubusercontent.com/Akshay-Srivatsan/Chrome-PDF-Viewer-Fix/master/bin/update.xml"
 }
