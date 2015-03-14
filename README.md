@@ -25,3 +25,4 @@ Haiku Learning is a trademark of Haiku Learning.
 * Sometimes, the plugin doesn't load fast enough, so some clicks go undetected (a reload fixes this).
 * Add an options page.
 * It's a little slow.
+* Add error handling.
