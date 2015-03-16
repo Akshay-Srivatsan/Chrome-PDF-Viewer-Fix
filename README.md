@@ -11,8 +11,8 @@ Akshay Srivatsan
 * Click "Add".
 
 ## Modification
-If you want to use this on other websites, change the following properties in "manifest.json":
-* "permissions": change "haiku.menloschool.org" to whatever url you want.
+If you want to use this on other websites, change the following in "manifest.json" and "main.js":
+* Change "haiku.menloschool.org" to whatever url you want.
 
 ## License
 This extension is under the MIT License, which can be found in LICENSE.txt. The Licenses for jquery and humane.js, which are used by this extension, can be found in their respective directories.

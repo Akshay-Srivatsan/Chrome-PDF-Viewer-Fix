@@ -10,7 +10,7 @@ function callback(){
       var location = $(this).attr("href");
       location = location.substring(1);
       location = location.substring(0, location.indexOf("/"));
-      if (destination.indexOf(".pdf") >= 0)
+      if (destination.indexOf(".pdf") >= 0 && window.location.href.indexOf("haiku.menloschool.org") >= -1)
       {
         destination = "https://haiku.menloschool.org" + destination;
 
@@ -43,6 +43,8 @@ function callback(){
       }
     })
 }
-
-$(callback);
-window.setTimeout(callback, 500);
+if (window.location.href.indexOf("haiku.menloschool.org") >= 0)
+{
+  $(callback);
+  window.setTimeout(callback, 500);
+}
