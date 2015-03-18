@@ -26,3 +26,4 @@ Haiku Learning is a trademark of Haiku Learning.
 * Add an options page.
 * It's a little slow.
 * Add error handling.
+* Fix printing (it works through the print button, not Control-P/Command-P).
